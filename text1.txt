@@ -14,4 +14,4 @@ to delete a file:
 "git commit -m"message is mandatory(the file is deleted)""
 "git push origin main"
 TRANSFER THE CREATED FILE IN GIT REPOSITORY TO VISUAL CODE:
-"git pull"
+"git pull".
