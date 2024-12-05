@@ -1,9 +1,0 @@
-Hi
-This is text 3
-now the text 3 is modified
-so add the text 3 in git local file using the command
-"git add text3.txt"
-and commit
-"git commit -m"modified""
-and push the local file using below command
-"git push origin main"
