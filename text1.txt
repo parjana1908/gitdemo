@@ -1,1 +1,17 @@
-Create text.txt file
+This is text1 file
+to create in file in visual file:
+click folder(gitgub) and click file logo
+then it transfered to git local file using the below command
+"git add file name"
+"git commit -m"message is mandatory""
+"git push origin main"
+to modified the file:
+"git add file name"
+"git commit -m"message is mandatory(file is modified)""
+"git push origin main"
+to delete a file:
+"git add file name"
+"git commit -m"message is mandatory(the file is deleted)""
+"git push origin main"
+TRANSFER THE CREATED FILE IN GIT REPOSITORY TO VISUAL CODE:
+"git pull"
