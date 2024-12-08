@@ -1,0 +1,7 @@
+to create the new branch in git
+to know the branch name
+"git branch"
+to know the how many branches using the command
+"git branch -a"
+to switch the branch using the below command
+"git checkout branch name(main)"
