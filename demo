@@ -1,8 +1,0 @@
-to know the how many branches are
-"git branch -a"
-to add the new branch in git 
-then pull the branch in visual code
-"git pull"
-to swithch the new branch using the below command
-"git checkout branch name(gitdemo1)"
-
