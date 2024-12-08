@@ -1,0 +1,7 @@
+create the new branch in visual code
+"git branch git2 (branch name)"
+modify the file by using the command
+"git add ."
+to commit "git commit -m "message" "
+to push the branch in git
+"git push origin branch name (git2)"
